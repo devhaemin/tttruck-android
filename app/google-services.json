@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865574831776",
+    "project_id": "tttruck-android",
+    "storage_bucket": "tttruck-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865574831776:android:5877bd32e014dea947abc5",
+        "android_client_info": {
+          "package_name": "com.bohemians.tttruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865574831776-4rufsoe8e956ojg5i90e11gcu7h1jov5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZgwEHrk1JqCuZ0IYokrFjEFr6hFNMG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865574831776-4rufsoe8e956ojg5i90e11gcu7h1jov5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

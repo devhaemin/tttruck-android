@@ -1,3 +1,4 @@
 <resources>
 	<string name="app_name">땡땡트럭</string>
+	<string name="msg_token_fmt">FCMToken Generated</string>
 </resources>
